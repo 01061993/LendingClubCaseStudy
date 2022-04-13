@@ -64,4 +64,4 @@ This project has been created as part of UPGRAD Lending Club Case Study module.
 ## Contact
 Created by - Shashi Bhushan Singh
 Github link is as below -
-https://github.com/01061993/LendingClubCaseStudy.git
+https://github.com/01061993/LendingClubCaseStudy
